@@ -10,3 +10,15 @@ C:\Users\Zaki\source\StoreBaeltBilletLibrary\storebaeltlibrary-zakikakar\StoreBa
 C:\Users\Zaki\source\StoreBaeltBilletLibrary\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.csproj.CopyComplete
 C:\Users\Zaki\source\StoreBaeltBilletLibrary\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.dll
 C:\Users\Zaki\source\StoreBaeltBilletLibrary\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.pdb
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\StoreBaeltLibrary.deps.json
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\StoreBaeltLibrary.dll
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\StoreBaeltLibrary.pdb
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.csprojAssemblyReference.cache
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.csproj.CoreCompileInputs.cache
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.AssemblyInfoInputs.cache
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.AssemblyInfo.cs
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.csproj.CopyComplete
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.dll
+C:\source\storebaeltlibrary-zakikakar\StoreBaeltLibrary\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.pdb
