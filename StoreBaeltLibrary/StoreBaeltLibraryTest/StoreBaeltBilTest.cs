@@ -13,7 +13,7 @@ namespace StoreBaeltLibraryTest
         public void TestWeekendPris()
         {
             //ARRANGE
-            WeekendRabat weekendRabat = new WeekendRabat();
+            StoreBaeltBil weekendRabat = new StoreBaeltBil();
             Bil bil = new Bil();
             
             //ACT
@@ -22,7 +22,7 @@ namespace StoreBaeltLibraryTest
             decimal BrobizzWeekendPris = weekendRabat.WeekendPris();
 
             //ASSERT
-            Assert.AreEqual(182.4, BrobizzWeekendPris);
+            Assert.AreEqual(182.4m, BrobizzWeekendPris);
             
         }
     }

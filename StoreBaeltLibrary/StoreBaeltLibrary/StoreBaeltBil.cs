@@ -8,7 +8,6 @@ namespace StoreBaeltLibrary
     public class StoreBaeltBil : Bil
     {
         public DayOfWeek dag; /*DateTime.Now.DayOfWeek;*/
-        
 
         public decimal WeekendPris()
         {
